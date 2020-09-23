@@ -4,6 +4,10 @@
 
 ![PychessImage](https://i.imgur.com/O9n5DKA.png)
 
+Demo Video: https://youtu.be/nS_2SxDia88
+
+</br>
+
 Function | Supported
 -------- | ---------
 Basic piece movements | √
